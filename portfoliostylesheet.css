@@ -1,10 +1,9 @@
-
 h1
 {
     font-size:60px;
-    font-family:Arial;
+    font-family:san-serif;
     color:#000000;
-    text-align:center;
+   
     
 }
 title
@@ -12,11 +11,5 @@ title
    font-size: 60px;
     font-family:san-serif;
     color: #204156;
-   
-}
-h2
-{
-    font-size:30px;
     
 }
-
